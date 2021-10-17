@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//Example for pull
 public class test {
 
 	public static void main(String[] args) {
