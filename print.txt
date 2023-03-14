@@ -1,0 +1,3 @@
+d100
+Hey,PrintWriter here
+I am most enhanced writer in file
